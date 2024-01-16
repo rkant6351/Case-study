@@ -1,7 +1,0 @@
-C:\Users\LENOVO\source\repos\Ecom_Application\Ecom_Application\bin\Debug\Ecom_Application.exe.config
-C:\Users\LENOVO\source\repos\Ecom_Application\Ecom_Application\bin\Debug\Ecom_Application.exe
-C:\Users\LENOVO\source\repos\Ecom_Application\Ecom_Application\bin\Debug\Ecom_Application.pdb
-C:\Users\LENOVO\source\repos\Ecom_Application\Ecom_Application\obj\Debug\Ecom_Application.csproj.AssemblyReference.cache
-C:\Users\LENOVO\source\repos\Ecom_Application\Ecom_Application\obj\Debug\Ecom_Application.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\source\repos\Ecom_Application\Ecom_Application\obj\Debug\Ecom_Application.exe
-C:\Users\LENOVO\source\repos\Ecom_Application\Ecom_Application\obj\Debug\Ecom_Application.pdb
